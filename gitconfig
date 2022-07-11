@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marwan.belhora@audencia.com
+	name = Marwan Belhora
